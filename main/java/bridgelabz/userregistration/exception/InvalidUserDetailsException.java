@@ -9,6 +9,4 @@ public class InvalidUserDetailsException extends Exception {
 		super(message);
 		this.type = type;
 	}
-	
-
 }
